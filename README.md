@@ -1,4 +1,4 @@
-# Student Information Entry Program
+# 🧑‍🎓Student Information Entry Program
 
 This is a simple C program to store student information in a text file.
 
