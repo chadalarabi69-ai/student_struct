@@ -22,6 +22,6 @@ Once entered, the information is saved to a file called `student.txt`.
 - Provides a success message after saving.
 ## 📸 Project Screenshots
 ### 1/  Program Run Screenshot
-![Program Run](programrun.png)
+![Program Run](programrun1.png)
 ### 2/  health_analysis
 ![health analysis](healthanalysis.png)
